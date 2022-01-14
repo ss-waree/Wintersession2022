@@ -8,3 +8,4 @@ Also use git fetch before use git pull, git pull starts the merging process, and
 Making some changes on the file locally.
 
 Making different changes.
+Making some additional changes.
